@@ -13,7 +13,7 @@
     "gatsby-plugin-react-next": "^1.0.11",
     "gatsby-plugin-styled-components": "^2.0.11",
     "invert-color": "^1.5.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "react-helmet": "^5.2.0",
     "rebass": "^2.0.0-10",
     "styled-components": "^3.4.1"
